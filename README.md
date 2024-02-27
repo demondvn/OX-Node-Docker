@@ -1,5 +1,5 @@
 # Buy key here [https://node.oxoa.games](https://node.oxoa.games?ref=0x0486509810a2dc4c44d4dc71be8b97413657cb1f)
-## OX-Node Application
+## OX-Node Docker Application
 
 ### 🚀 Dive into the OX-NODE app – your gateway to managing and operating OX-NODEs! Earn $isOXOA rewards while seamlessly overseeing your nodes' performance.
 
