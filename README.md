@@ -16,3 +16,19 @@
 📈 As you expand your node empire with more keys, anticipate adjustments in hardware requirements. The system's scalability allows for dozens of keys on a single machine, with potential for even more.
 
 🔗 Dive into the future of node management with OX-NODE app – where rewards meet seamless operation! #OXOANetwork #OXNODE #NodeManagement 🚀💻
+
+### Docker setup
+
+```
+docker-compose build
+docker-compose up -d
+```
+
+### Setup
+
+🌐 Access  `localhost:8080`
+🔗 Run App > Login 
+```bash
+cd /app && ./OXNodeApp-Linux-4.6.0.AppImage
+```
+
