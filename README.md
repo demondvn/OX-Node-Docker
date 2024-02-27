@@ -1,4 +1,5 @@
-# OX-Node Application
+# Buy key here [https://node.oxoa.games](https://node.oxoa.games?ref=0x0486509810a2dc4c44d4dc71be8b97413657cb1f)
+## OX-Node Application
 
 ### 🚀 Dive into the OX-NODE app – your gateway to managing and operating OX-NODEs! Earn $isOXOA rewards while seamlessly overseeing your nodes' performance.
 
@@ -25,6 +26,8 @@ docker-compose up -d
 ```
 
 ### Setup
+
+#### Buy key here [https://node.oxoa.games](https://node.oxoa.games?ref=0x0486509810a2dc4c44d4dc71be8b97413657cb1f)
 
 🌐 Access  `localhost:8080`
 🔗 Run App > Login 
